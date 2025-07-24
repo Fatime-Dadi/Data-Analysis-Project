@@ -84,5 +84,5 @@ The notebook performs the following steps:
 ---
 
 **Author:**  
-Hassan  
+Fatime Dadi Wardougou(25858)
 INSY 8413 -
